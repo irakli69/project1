@@ -1,0 +1,239 @@
+body{
+    margin: 0%;
+}
+.bar{
+    width: 100%;
+    height: 99px;
+    display: flex;
+    position: fixed;
+    margin-bottom: 99px;
+    background-color: white;
+}
+.for_logo{
+    width: 200px;
+    height: 41px;
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/xfooter_logo.png.pagespeed.ic.lvE0aE5-r2.webp);
+    background-repeat: no-repeat;
+    background-color: rgb(221, 204, 204);
+    margin-top: 26px;
+    margin-left: 40px;
+    border-right: 1px solid black;
+}
+.for_info{
+    width: 750px;
+    height: 41px;
+    margin-top: 26px;
+    margin-left: 4%;   
+    display: flex;
+     
+}
+.inf{
+    text-decoration: none;
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+}
+.for_num{
+    width: 180px;
+    height: 40px;
+    margin-top: 26px;
+    margin-left: 15%;  
+    display: flex;
+    border-right: 1px solid black;
+}
+.tel_logo{
+    width: 25px;
+    height: 25px;
+    margin-top: 6%;
+    color: red;
+}
+.numm{
+    margin-top: 5.9%;
+    margin-left: 5%;
+}
+.for_social{
+    width: 180px;
+    height: 40px;
+    margin-top: 26px;
+    margin-left: 1%;
+    display: block;
+}
+.soc{
+    margin-top: 6%;
+    margin-left: 15%;
+}
+.for_icon{
+    width: 100px;
+    height: 99px;
+    background-color: red;
+    margin-left: 4%;
+}
+.for_mainimage{   
+    width: 100%;
+    height: 650px;
+    background-image: url(images/banner1.webp);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    background-position: center;
+    /* background-size: 100% 100%; */
+  
+     
+}
+.to_go{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+}
+.empty{
+    width: 100%;
+    height: 99px;
+}
+.title{
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+.for_title{
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+}
+.country_box{
+    width: 75%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:auto;
+}
+
+.country1{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/destination1.webp);
+    border-radius: 6px;
+}
+.country2{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/destination2.webp);
+    border-radius: 6px;
+}
+.country3{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/x3.png.pagespeed.ic.78W6B32hsk.webp);
+    border-radius: 6px;
+}
+.country4{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/x4.png.pagespeed.ic.eWKrFKhuKv.webp);
+    border-radius: 6px;
+}
+.country5{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/x5.png.pagespeed.ic.w9itzKnbmP.webp);
+    border-radius: 6px;
+}
+.country6{
+    width: 350px;
+    height: 261.5px;
+    margin: 20px;
+    background-image: url(images/x6.png.pagespeed.ic.G2cL_XuMxk.webp);
+    border-radius: 6px;
+}
+.p1{
+    width: 350px;
+    height: 261.5px;
+    border-radius: 6px;
+    background: linear-gradient(to bottom,rgba(4,14,39,0) 0%,rgba(4,14,39,.7) 100%);
+}
+.for_sub{
+    width: 100%;
+    height: 229.8px;
+    background-color: cornflowerblue;
+    margin-top: 120px;
+}
+.country_box2{
+    width: 75%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:auto;
+}
+.c2{
+    width: 350px;
+    height: 297.28px;
+    background-color: cadetblue;
+    margin: 10px;
+    border-radius: 6px;
+}
+.for_button{
+    width: 500px;
+    background-color: crimson;
+
+}
+.more{
+    width: 150px;
+    height: 60px;
+    display: block;
+    margin: auto;
+}
+.pic2{
+    width: 100%;
+    height: 650px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLuWVS2B2cXUKQGRS8HMJH4bT9THzXg-cTY6co19KWP2kJ26L3yXAzP44wmqqj_sUReg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-top: 100px;
+}
+.journey{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: cadetblue;
+}
+.about_journey{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin: 1%;
+}
+.testimonial_area{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.recent_journeys{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: blueviolet;
+}
+.recent_text{
+    width: 100%;
+    text-align: center;
+}
+.recent{
+    width: 350px;
+    height: 400px;
+    background-color: brown;
+    margin: 1%;
+}
+.main_footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
